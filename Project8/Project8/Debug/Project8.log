@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\khoury\source\repos\project8\project8\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\khoury\source\repos\project8\project8\source.cpp(8): warning C4101: 'm': unreferenced local variable
+c:\users\khoury\source\repos\project8\project8\source.cpp(8): warning C4101: 'p3': unreferenced local variable
+c:\users\khoury\source\repos\project8\project8\source.cpp(8): warning C4101: 'p1': unreferenced local variable
+c:\users\khoury\source\repos\project8\project8\source.cpp(8): warning C4101: 'p4': unreferenced local variable
+c:\users\khoury\source\repos\project8\project8\source.cpp(8): warning C4101: 'p2': unreferenced local variable
+  Project8.vcxproj -> C:\Users\Khoury\source\repos\Project8\Debug\Project8.exe
